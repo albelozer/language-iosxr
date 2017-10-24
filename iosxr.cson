@@ -1,0 +1,6 @@
+'fileTypes': [
+  'iosxr'
+]
+'name': 'Cisco IOS XR'
+'foldingStartMarker': '^interface|^router|^vrf|^ipv4 access-list|^policy-map'
+'foldingStopMarker': '^!'
